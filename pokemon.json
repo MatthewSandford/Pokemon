@@ -1,0 +1,14 @@
+{
+  "bulbasaur": {
+    "max_health" :  50,
+    "moves": [ "scratch", "flame_thrower" ]
+  },
+  "charmander": {
+    "max_health": 60,
+    "moves": [ "scratch", "flame_thrower" ]
+  },
+  "squirtle": {
+    "max_health": 50,
+    "moves": [ "scratch", "flame_thrower" ]
+  }
+}
